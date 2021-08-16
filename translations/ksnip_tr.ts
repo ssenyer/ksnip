@@ -25,11 +25,11 @@
     </message>
     <message>
         <source>Donate</source>
-        <translation>Bağış</translation>
+        <translation>Bağış Yap</translation>
     </message>
     <message>
         <source>Contact</source>
-        <translation type="unfinished"></translation>
+        <translation>İletişim</translation>
     </message>
 </context>
 <context>
@@ -40,18 +40,18 @@
     </message>
     <message>
         <source>Screenshot and Annotation Tool</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ekran Görüntüsü ve Açıklama Ekleme Aracı</translation>
     </message>
 </context>
 <context>
     <name>ActionSettingTab</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">İsim</translation>
     </message>
     <message>
         <source>Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kısayol</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -59,15 +59,15 @@
     </message>
     <message>
         <source>Take Capture</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Yakala</translation>
     </message>
     <message>
         <source>Include Cursor</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fare işaretçisini de içersin</translation>
     </message>
     <message>
         <source>Delay</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gecikme</translation>
     </message>
     <message>
         <source>s</source>
@@ -75,7 +75,7 @@
     </message>
     <message>
         <source>Capture Mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Yakalama Modu</translation>
     </message>
     <message>
         <source>Show image in Pin Window</source>
@@ -83,23 +83,23 @@
     </message>
     <message>
         <source>Copy image to Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Resmi panoya kopyala</translation>
     </message>
     <message>
         <source>Upload image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Resim yükle</translation>
     </message>
     <message>
         <source>Open image parent directory</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ana resim klasörünü aç</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Resmi kaydet</translation>
     </message>
     <message>
         <source>Hide Main Window</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ana pencereyi gizle</translation>
     </message>
 </context>
 <context>
@@ -110,11 +110,11 @@
     </message>
     <message>
         <source>Actions Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Eylem ayarları</translation>
     </message>
     <message>
         <source>Action</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Eylem</translation>
     </message>
 </context>
 <context>
@@ -246,7 +246,7 @@ a new start of all instances.</source>
     </message>
     <message>
         <source>Auto hide Tabs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sekmeleri otomatik olarak gizle</translation>
     </message>
     <message>
         <source>Auto hide Docks</source>
@@ -255,22 +255,22 @@ a new start of all instances.</source>
     <message>
         <source>On startup hide Toolbar and Annotation Settings.
 Docks visibility can be toggled with the Tab Key.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Başlarken araç çubuğu ve açıklama ayarlarını gizle.Sekme tuşu ile görünürlük değiştirilebilir.</translation>
     </message>
     <message>
         <source>Auto resize to content</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">İçeriğe göre yeniden boyutlandır</translation>
     </message>
     <message>
         <source>Automatically resize Main Window to fit content image.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Resmi sığdırmak için ana pencereyi yeniden boyutlandır.</translation>
     </message>
 </context>
 <context>
     <name>AuthorTab</name>
     <message>
         <source>Contributors:</source>
-        <translation type="unfinished">Katkıcılar:</translation>
+        <translation type="unfinished">Katkı Sağlayanlar:</translation>
     </message>
     <message>
         <source>Spanish Translation</source>
@@ -302,7 +302,7 @@ Docks visibility can be toggled with the Tab Key.</source>
     </message>
     <message>
         <source>The Authors:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Yazılımcılar</translation>
     </message>
 </context>
 <context>
@@ -314,7 +314,7 @@ Docks visibility can be toggled with the Tab Key.</source>
     <message>
         <source>The capture %1%2%3 has been modified.
 Do you want to save it?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Yakalanan %1%2%3 görüntüsü değiştirildi. Kaydetmek ister misiniz?</translation>
     </message>
 </context>
 <context>
@@ -360,19 +360,19 @@ Do you want to save it?</source>
     </message>
     <message>
         <source>If you have general questions, ideas or just want to talk about ksnip,</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sorunuz varsa ya da ksnip programı hakkında konuşmak istiyorsanız </translation>
     </message>
     <message>
         <source>please join our </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">lütfen</translation>
     </message>
     <message>
         <source> server.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">sunucumuza katılın.</translation>
     </message>
     <message>
         <source>Bug Reports</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hata Raporları</translation>
     </message>
     <message>
         <source>Please use </source>
@@ -406,12 +406,13 @@ Do you want to save it?</source>
     <name>DeleteImageOperation</name>
     <message>
         <source>Delete Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Resmi sil</translation>
     </message>
     <message>
         <source>The item &apos;%1&apos; will be deleted.
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Resim &apos;%1&apos; silinecek.
+Devam etmek istiyor musunuz?</translation>
     </message>
 </context>
 <context>
